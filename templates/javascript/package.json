@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "This is javascript template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngocsangyem <nnsang24@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"name": "javascript",
+	"version": "1.0.0",
+	"description": "This is javascript template",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "tsc --watch"
+	},
+	"author": "ngocsangyem <nnsang24@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "^3.5.2"
+	}
+}
